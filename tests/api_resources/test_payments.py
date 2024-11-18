@@ -132,15 +132,7 @@ class TestPayments:
                 {
                     "description": "Voice_1111",
                     "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
+                }
             ],
             amount={
                 "amount": 50,
@@ -170,43 +162,7 @@ class TestPayments:
                         "amount": 50,
                         "units": "XOF",
                     },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
+                }
             ],
             payer={
                 "payer_id": "233364654737",
@@ -379,15 +335,7 @@ class TestPayments:
                 {
                     "description": "Voice_1111",
                     "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
+                }
             ],
             amount={
                 "amount": 50,
@@ -417,43 +365,7 @@ class TestPayments:
                         "amount": 50,
                         "units": "XOF",
                     },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
+                }
             ],
             payer={
                 "payer_id": "233364654737",
@@ -720,15 +632,7 @@ class TestAsyncPayments:
                 {
                     "description": "Voice_1111",
                     "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
+                }
             ],
             amount={
                 "amount": 50,
@@ -758,43 +662,7 @@ class TestAsyncPayments:
                         "amount": 50,
                         "units": "XOF",
                     },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
+                }
             ],
             payer={
                 "payer_id": "233364654737",
@@ -967,15 +835,7 @@ class TestAsyncPayments:
                 {
                     "description": "Voice_1111",
                     "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
-                {
-                    "description": "Voice_1111",
-                    "name": "BundleName",
-                },
+                }
             ],
             amount={
                 "amount": 50,
@@ -1005,43 +865,7 @@ class TestAsyncPayments:
                         "amount": 50,
                         "units": "XOF",
                     },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
-                {
-                    "total_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                    "payee_id": "AYO.DEPOSIT",
-                    "payee_id_type": "USER",
-                    "payee_name": "payeeName",
-                    "payee_note": "Manual Boost for RWC",
-                    "tax_amount": {
-                        "amount": 50,
-                        "units": "XOF",
-                    },
-                },
+                }
             ],
             payer={
                 "payer_id": "233364654737",
